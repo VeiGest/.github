@@ -1,0 +1,52 @@
+VeiGest
+
+Plataforma para gestão de frotas empresariais.
+
+App mobile → Interfaçe para o condutor.
+
+Website       → Interface para o gestor das frotas
+
+Api               → Serviço geral para as aplicações
+
+Features que precisam ser implementadas:
+
+## Básicas
+
+- [ ]  Tracking de viaturas (veiculos)
+- [ ]  Planeamento de rotas (Usando a app movel)
+- [ ]  Lista de condutores por veículos
+- [ ]  Gestão de condutores e veículos
+- [ ]  Cadastro e gestão de veículos
+- [ ]  Registo de manutenções e revisões
+- [ ]  Alertas e notificações (ex: manutenção, inspeções)
+- [ ]  Lembrete para eventos
+    - [ ]  Lembrete para **Pagamento do IUC (Imposto Único de Circulação)**
+    - [ ]  Lembrete para **Pagamento do Seguro Automóvel.**
+    - [ ]  Lembrete para **Realicação das inspeções periodicas.**
+- [ ]  Lista de documentos e estado dos documentos.
+    - [ ]  Estado do **Documento Único Automóvel (DUA)**
+    - [ ]  Estado do **Seguro Automovel**
+    - [ ]  Estado das I**nspeções periodicas.**
+- [ ]  Gestão de cartão combustivel.
+    - [ ]  Comprovativo de pagamento, recibos (Usando a app movel)
+    - [ ]  Lista de cartão por veiculo
+- [ ]  Lista de documentos e estado dos documentos do veículo.
+    - [ ]  Estado do **Documento Único Automóvel (DUA)**
+    - [ ]  Estado do **Seguro Automovel**
+    - [ ]  Estado das I**nspeções periodicas.**
+- [ ]  Lista de documentos e estado dos documentos do condutor.
+    - [ ]  Estado da Carta de condução.
+    - [ ]  Estado do **Seguro Automovel**
+    - [ ]  Estado das I**nspeções periodicas.**
+- [ ]  Report de avarias
+- [ ]  Relatórios e estatísticas de utilização
+
+## Extras
+
+**Alerta de Atividade em Tempo Real**
+
+- Excesso de velocidade
+- Desvios de percurso
+- **Otimização de rotas**
+- Utilização fora de hora
+- Detecção de roubo
